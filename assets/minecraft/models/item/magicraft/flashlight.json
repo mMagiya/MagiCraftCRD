@@ -2,7 +2,7 @@
 	"credit": "Made by Magiya using Blockbench",
 	"parent": "torch",
 	"textures": {
-		"1": "magicraft/flashlight",
+		"0": "magicraft/flashlight",
 		"particle": "magicraft/flashlight"
 	},
 	"elements": [

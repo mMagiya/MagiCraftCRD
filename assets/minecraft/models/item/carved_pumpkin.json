@@ -5,7 +5,7 @@
     "front": "minecraft:block/carved_pumpkin",
     "side": "minecraft:block/pumpkin_side"
   },
-    "overrides": [
+  "overrides": [
     {"predicate": {"custom_model_data":  1}, "model": "item/hermitcraft/bighat"},
 	{"predicate": {"custom_model_data": 69}, "model": "item/magicraft/brassgoggles"}
     ]

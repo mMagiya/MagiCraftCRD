@@ -1,0 +1,111 @@
+{
+	"credit": "Made by Magiya using Blockbench",
+	"textures": {
+		"0": "magicraft/flashlight",
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [7, 1, 0],
+			"to": [9, 3, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 2], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 2], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [6, 0, 9],
+			"to": [10, 4, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 4], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 3], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "collar",
+			"from": [6.5, 0.5, 8],
+			"to": [9.5, 3.5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 3], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 3], "texture": "#0"},
+				"up": {"uv": [0, 0, 3, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 3, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "switch",
+			"from": [7.5, 3, 4.5],
+			"to": [8.5, 3.5, 6.5],
+			"faces": {
+				"north": {"uv": [4, 2, 5, 2.5], "texture": "#0"},
+				"east": {"uv": [4, 2, 6, 2.5], "texture": "#0"},
+				"south": {"uv": [4, 2, 5, 2.5], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 2.5], "texture": "#0"},
+				"up": {"uv": [4, 2, 5, 4], "texture": "#0"},
+				"down": {"uv": [4, 2, 5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "light",
+			"from": [6.25, 0.25, 12],
+			"to": [9.75, 3.75, 12],
+			"faces": {
+				"north": {"uv": [4, 5, 8, 9], "texture": "#0"},
+				"east": {"uv": [4, 5, 4, 9], "texture": "#0"},
+				"south": {"uv": [4, 5, 8, 9], "texture": "#0"},
+				"west": {"uv": [4, 5, 4, 9], "texture": "#0"},
+				"up": {"uv": [8, 5, 4, 5], "texture": "#0"},
+				"down": {"uv": [8, 5, 4, 5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-140, -5, -180],
+			"translation": [-0.5, 4.75, 2.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-140, -5, -180],
+			"translation": [-0.5, 4.75, 2.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -174, -20],
+			"translation": [0.5, 6, -1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -174, -20],
+			"translation": [0.5, 6, -1]
+		},
+		"ground": {
+			"rotation": [-20, 0, 0],
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [-70, 45, 119],
+			"translation": [-3.75, 4.5, 0],
+			"scale": [1.35, 1.35, 1.35]
+		},
+		"head": {
+			"rotation": [-175, 0, -180],
+			"translation": [0, 14, -4]
+		},
+		"fixed": {
+			"rotation": [-100, 0, 0],
+			"translation": [0, 1, -8]
+		}
+	}
+}

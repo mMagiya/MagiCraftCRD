@@ -1,6 +1,5 @@
 {
 	"credit": "Made by Magiya using Blockbench",
-	"parent": "minecraft:item/generated",
 	"textures": {
 		"0": "magicraft/flashlight",
 	},

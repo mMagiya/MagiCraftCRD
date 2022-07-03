@@ -1,11 +1,10 @@
 {
 	"credit": "Made by Magiya using Blockbench",
-	"parent": "block/orientable",
-	"textures": {
-		"1": "magicraft/brassgoggles",
-		"particle": "magicraft/brassgoggles"
-	},
 	"texture_size": [32, 32],
+	"textures": {
+		"1": "magicraft/head",
+		"particle": "magicraft/head"
+	},
 	"elements": [
 		{
 			"name": "top",
@@ -13,12 +12,12 @@
 			"to": [11.375, 11.80552, 8.4],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 7.80552, 4.96404]},
 			"faces": {
-				"north": {"uv": [0, 0, 4, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 2.5, 1], "texture": "#0"},
-				"south": {"uv": [0, 0, 4, 1], "texture": "#0"},
-				"west": {"uv": [1.5, 0, 4, 1], "texture": "#0"},
-				"up": {"uv": [4, 7, 0, 4.5], "texture": "#0"},
-				"down": {"uv": [4, 4.5, 0, 7], "texture": "#0"}
+				"north": {"uv": [0, 0, 3.375, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 3.25, 1.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 3.375, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.25, 1.5], "texture": "#0"},
+				"up": {"uv": [7.875, 3.25, 4.5, 0], "texture": "#0"},
+				"down": {"uv": [7.875, 0, 4.5, 3.25], "texture": "#0"}
 			}
 		},
 		{
@@ -78,9 +77,9 @@
 		},
 		{
 			"name": "mouth",
-			"from": [5.5, 0.5, 0],
-			"to": [10.5, 4.5, 2],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 1]},
+			"from": [5.5, 0.5, 0.825],
+			"to": [10.5, 4.5, 1.95],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 2.5, 1.3875]},
 			"faces": {
 				"north": {"uv": [8, 3, 10.5, 5], "texture": "#0"},
 				"east": {"uv": [12, 0, 13, 2], "texture": "#0"},
@@ -120,8 +119,8 @@
 			"scale": [1.25, 1.25, 1.25]
 		},
 		"head": {
-			"translation": [0, 7.5, 3.25],
-			"scale": [1.75, 1.75, 1.75]
+			"translation": [0, 7.5, 4],
+			"scale": [1.85, 1.85, 1.85]
 		},
 		"fixed": {
 			"translation": [0, 3, 0]

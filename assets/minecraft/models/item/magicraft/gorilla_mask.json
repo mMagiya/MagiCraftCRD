@@ -2,7 +2,7 @@
 	"credit": "Made by Magiya using Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "magicraft/head",
+		"0": "magicraft/head",
 		"particle": "magicraft/head"
 	},
 	"elements": [

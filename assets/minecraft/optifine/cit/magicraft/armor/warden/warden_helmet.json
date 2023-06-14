@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "./warden_armor_layer1",
+		"1": "./warden_ears",
+		"particle": "./warden_armor_layer1"
+	},
+	"elements": [
+		{
+			"name": "helmet",
+			"from": [4, 0, 5],
+			"to": [12, 8, 13],
+			"faces": {
+				"north": {"uv": [2, 4, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#0"},
+				"south": {"uv": [6, 4, 8, 8], "texture": "#0"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#0"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "ear1",
+			"from": [-4, 3, 9],
+			"to": [4, 12, 9],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 5], "texture": "#1"},
+				"east": {"uv": [4, 5, 4, 5], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 5], "texture": "#1"},
+				"west": {"uv": [4, 5, 4, 5], "texture": "#1"},
+				"up": {"uv": [4, 5, 4, 5], "texture": "#1"},
+				"down": {"uv": [4, 5, 4, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "ear2",
+			"from": [12, 3, 9],
+			"to": [20, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 6.5, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 5], "texture": "#1"},
+				"east": {"uv": [4, 5, 4, 5], "texture": "#1"},
+				"south": {"uv": [2, 0, 4, 5], "texture": "#1"},
+				"west": {"uv": [4, 5, 4, 5], "texture": "#1"},
+				"up": {"uv": [4, 5, 4, 5], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [4, 5, 4, 5], "rotation": 180, "texture": "#1"}
+			}
+		}
+	]
+}

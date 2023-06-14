@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+    "overrides": [
+	{"predicate": {"custom_model_data": 1}, "model": "item/hermitcraft/bighat"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/hermitcraft/creeper_costume"},
+	{"predicate": {"custom_model_data": 52}, "model": "item/magicraft/magiyahorns"},
+    {"predicate": {"custom_model_data": 100}, "model": "item/magicraft/gorilla_mask"},
+    {"predicate": {"custom_model_data": 101}, "model": "item/magicraft/gorilla"}
+    ]
+}

@@ -1,15 +1,17 @@
 {
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "top": "minecraft:block/pumpkin_top",
-    "front": "minecraft:block/carved_pumpkin",
-    "side": "minecraft:block/pumpkin_side"
-  },
-    "overrides": [
-	{"predicate": {"custom_model_data": 1}, "model": "item/hermitcraft/bighat"},
-    {"predicate": {"custom_model_data": 2}, "model": "item/hermitcraft/creeper_costume"},
-	{"predicate": {"custom_model_data": 52}, "model": "item/magicraft/magiyahorns"},
-    {"predicate": {"custom_model_data": 100}, "model": "item/magicraft/gorilla_mask"},
-    {"predicate": {"custom_model_data": 101}, "model": "item/magicraft/gorilla"}
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/carved_pumpkin"
+    },
+    "cases": [
+      { "when": "hc_bighat", "model": { "type": "model", "model": "hermitcraft:item/bighat" } },
+      { "when": "hc_creeper", "model": { "type": "model", "model": "hermitcraft:item/creeper_costume" } },
+      { "when": "magi_horns", "model": { "type": "model", "model": "magicraft:item/magiyahorns" } },
+      { "when": "magi_gorilla", "model": { "type": "model", "model": "magicraft:item/gorilla" } },
+      { "when": "magi_gorilla_mask", "model": { "type": "model", "model": "magicraft:item/gorilla_mask" } },
     ]
+  }
 }

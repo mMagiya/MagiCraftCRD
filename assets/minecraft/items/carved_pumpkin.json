@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/carved_pumpkin"
+    },
+    "cases": [
+      { "when": "coin", "model": { "type": "model", "model": "magicraft:item/coin" } }
+    ]
+  }
+}
+

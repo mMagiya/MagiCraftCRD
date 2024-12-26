@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/lantern"
+    },
+    "cases": [
+      { "when": "flashlight", "model": { "type": "model", "model": "magicraft:item/flashlight" } }
+    ]
+  }
+}
+

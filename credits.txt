@@ -1,0 +1,616 @@
+### Credits for Fanart ###
+Image - xisuma01
+    ID - 1
+    Title - Mace Race
+    Author - hoodyknight
+    Link - https://x.com/hoodyknight/status/1840505255731077320                
+Image - xisuma02
+    ID - 2
+    Title - Soulside Reverie
+    Author - Luckytigerkitten
+    Link - https://www.reddit.com/r/HermitCraft/comments/1fi5mu6/comment/loqeutd/                
+Image - xisuma03
+    ID - 3
+    Title - Xisuma Eternal
+    Author - the_Wandering_Mask
+    Link - https://www.reddit.com/r/HermitCraft/comments/1fi5mu6/comment/lp21z93/                
+Image - xisuma04
+    ID - 4
+    Title - xisuma pile
+    Author - sad-poptart
+    Link - https://www.reddit.com/r/HermitCraft/comments/1fi5mu6/comment/lpdqkf3/                
+Image - xisuma05
+    ID - 5
+    Title - Bone mage
+    Author - doddo_inkling
+    Link - https://x.com/doddo_inkling/status/1840092179987083324                
+Image - keralis01
+    ID - 6
+    Title - Screaming Keralis
+    Author - GuyCalledBenni
+    Link - email                
+Image - keralis02
+    ID - 7
+    Title - Yacht in the Jungle
+    Author - SevenchiArt
+    Link - email                
+Image - keralis03
+    ID - 8
+    Title - It's All About Perspective!
+    Author - Aoccha
+    Link - email                
+Image - keralis04
+    ID - 9
+    Title - Keralis Portrait
+    Author - lem0n_icecream
+    Link - email                
+Image - keralis05
+    ID - 10
+    Title - Firework Show
+    Author - Lilac Artemis 
+    Link - email                
+Image - bdubs01
+    ID - 11
+    Title - A Base to Remember
+    Author - _Squid_Squishy_
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jb0q11/comment/mhrbjcl/                
+Image - bdubs02
+    ID - 12
+    Title - The Flying Tugboat
+    Author - tatekane
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jb0q11/comment/mhwthjh/                
+Image - bdubs03
+    ID - 13
+    Title - Lost souls
+    Author - panidanya
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jb0q11/comment/mmgwfbq/                
+Image - bdubs04
+    ID - 14
+    Title - Cyberpunk City
+    Author - charliesmudkips
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jb0q11/comment/mi7hphd/                
+Image - bdubs05
+    ID - 15
+    Title - Early Bdubs gets the fish
+    Author - bilbyman
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jb0q11/comment/mie9c7p/                
+Image - cub01
+    ID - 16
+    Title - Factory for Fireworks
+    Author - BillbyBoo
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hfjtl2/comment/m33pgid/                
+Image - cub02
+    ID - 17
+    Title - A View Into The Mind of Cubfan
+    Author - Lucylu_art
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hfjtl2/comment/m57s8fb/                
+Image - cub03
+    ID - 18
+    Title - Rocket Sale
+    Author - Tyxaar
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hfjtl2/comment/m50258w/                
+Image - cub04
+    ID - 19
+    Title - Llama escape
+    Author - Viky Somebody
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hfjtl2/comment/m67crw9/                
+Image - cub05
+    ID - 20
+    Title - The Manager's Office
+    Author - charliesmudkips
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hfjtl2/comment/m69zk33/                
+Image - etho01
+    ID - 26
+    Title - Decked Out hard run
+    Author - Renfei.art
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hb755t/comment/m1fl0o2/                
+Image - etho02
+    ID - 27
+    Title - Greenhouse
+    Author - panidanya
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hb755t/comment/m2li4um/                
+Image - etho03
+    ID - 28
+    Title - Finishing Touches
+    Author - Ralburry
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hb755t/comment/m293eos/                
+Image - etho04
+    ID - 29
+    Title - Scootin'
+    Author - vegley
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hb755t/comment/m517rfu/                
+Image - etho05
+    ID - 30
+    Title - Ravager Rush 1983 Arcade edition
+    Author - Melnact19
+    Link - https://www.reddit.com/r/HermitCraft/comments/1hb755t/comment/m37lbfp/                
+Image - falsesymmetry01
+    ID - 31
+    Title - Winner of Demise
+    Author - Moss_Loading
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc9kf5/comment/mt4vkk2/                
+Image - falsesymmetry02
+    ID - 32
+    Title - Doing What's Best
+    Author - terracottakore
+    Link - https://www.reddit.com/user/terracottakore/                
+Image - falsesymmetry03
+    ID - 33
+    Title - False Base
+    Author - VoidCat
+    Link - https://www.reddit.com/user/voidscat/                
+Image - falsesymmetry04
+    ID - 34
+    Title - River Mogul
+    Author - CF Kniq
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc9kf5/comment/muu2qmd/                
+Image - falsesymmetry05
+    ID - 35
+    Title - Stroll in the neighbourhood
+    Author - BilbyBoo
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc9kf5/comment/mrjraay/                
+Image - gem01
+    ID - 36
+    Title - Red Waves
+    Author - valeriapryanikova
+    Link - https://www.tumblr.com/valeriapryanikova/782796820291158016/red-waves-2024-by-valeriapryanikova-is-licensed?source=share                
+Image - gem02
+    ID - 37
+    Title - New Update Shenanigans
+    Author - Bucket_ofcheese
+    Link - email                
+Image - gem03
+    ID - 38
+    Title - Gem's lighthouse
+    Author - Fiiniky
+    Link - email                
+Image - gem04
+    ID - 39
+    Title - sunrise_
+    Author - TateArt_
+    Link - email                
+Image - hypno01
+    ID - 46
+    Title - Ministry of Steel
+    Author - Kore
+    Link - email                
+Image - impulse01
+    ID - 51
+    Title - the vibrant light of innovation
+    Author - toboldlymuppet
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jh4iv3/comment/mjbt4ia/                
+Image - impulse02
+    ID - 52
+    Title - Dwarven Imp
+    Author - fantasticalrain
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jh4iv3/comment/mjl6xiu/                
+Image - impulse03
+    ID - 53
+    Title - heart of the city
+    Author - Fenceington
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jh4iv3/comment/mjbyi1p/                
+Image - impulse04
+    ID - 54
+    Title - Cyberpulse
+    Author - CF Kniq
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jh4iv3/comment/mjmptye/                
+Image - impulse05
+    ID - 55
+    Title - Floating over the city
+    Author - notwilhulbert
+    Link - https://www.reddit.com/r/HermitCraft/comments/1jh4iv3/comment/mmre3lf/                
+Image - jevin01
+    ID - 56
+    Title - Crepuscular Rats of Ambitions
+    Author - CF Kniq
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j9j6yx/comment/mi2m2yp/                
+Image - jevin02
+    ID - 57
+    Title - It's Not Easy Being Green
+    Author - charliesmudkips
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j9j6yx/comment/mhgznsv/                
+Image - jevin03
+    ID - 58
+    Title - All hail Sal
+    Author - Schlart
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j9j6yx/comment/mj7gt2i/                
+Image - jevin04
+    ID - 59
+    Title - Welcome to Exile
+    Author - Lofreyz
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j9j6yx/comment/mlu5mqb/                
+Image - jevin05
+    ID - 60
+    Title - Sal (Our Lord and Saviour) & Jevin
+    Author - Diezepam
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j9j6yx/comment/mio6ynr/                
+Image - mumbo01
+    ID - 66
+    Title - Creator
+    Author - bc_jpeg
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc86xl/comment/mrs6wy4/                
+Image - mumbo02
+    ID - 67
+    Title - Big Ron's
+    Author - plainnrice
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc86xl/comment/mr0pwcb/                
+Image - mumbo03
+    ID - 68
+    Title - Crochet and Cogs
+    Author - freesiadotcom
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc86xl/comment/ms8o083/                
+Image - mumbo04
+    ID - 69
+    Title - Fan Art
+    Author - 0xycod0ne
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc86xl/comment/msymrvq/                
+Image - mumbo05
+    ID - 70
+    Title - Vampiric Portrait
+    Author - SaberStar
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kc86xl/comment/mskyhbw/                
+Image - pearl01
+    ID - 71
+    Title - Ballroom Blitz
+    Author - ssilentwillow
+    Link - https://www.reddit.com/r/HermitCraft/comments/1im3npx/comment/mcldls4/                
+Image - pearl02
+    ID - 72
+    Title - Pearl and Larry the chicken!
+    Author - Altairelyn
+    Link - https://www.reddit.com/r/HermitCraft/comments/1im3npx/comment/mc1okhu/                
+Image - pearl03
+    ID - 73
+    Title - You've Got Mail
+    Author - boxofoxberry
+    Link - https://www.reddit.com/r/HermitCraft/comments/1im3npx/comment/mdmss9w/                
+Image - pearl04
+    ID - 74
+    Title - Solarpunk Pearl
+    Author - _Squid_Squishy_
+    Link - https://www.reddit.com/r/HermitCraft/comments/1im3npx/comment/mcwzh5c/                
+Image - pearl05
+    ID - 75
+    Title - Put on the music!
+    Author - RishaTAE
+    Link - https://www.reddit.com/r/HermitCraft/comments/1im3npx/comment/mdze6rm/                
+Image - rendog01
+    ID - 76
+    Title - The Quotidian Rhythm
+    Author - .sun.spot.
+    Link - discord                
+Image - rendog02
+    ID - 77
+    Title - GIGACORP safety poster
+    Author - EnoCamel
+    Link - discord                
+Image - rendog03
+    ID - 78
+    Title - A Day in the Life of a Gigacorp Employee
+    Author - purple_gl1tch
+    Link - discord                
+Image - rendog04
+    ID - 79
+    Title - Giga Truck
+    Author - Sevenchi
+    Link - email                
+Image - rendog05
+    ID - 80
+    Title - Space Rat Infestation
+    Author - styrfo4m
+    Link - discord                
+Image - scar01
+    ID - 81
+    Title - The Mob Boss
+    Author - Skippy
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8naod/comment/mwrkw2o/                
+Image - scar02
+    ID - 82
+    Title - An Unintentional Mob Farm
+    Author - Alex Carlson
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8naod/comment/mte6ukp/                
+Image - scar03
+    ID - 83
+    Title - Poe Poe On The Chase
+    Author - nuim
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8naod/comment/mqch9d2/                
+Image - scar04
+    ID - 84
+    Title - Painting on the Train
+    Author - Baylleart
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8naod/comment/mwdfkbc/                
+Image - scar05
+    ID - 85
+    Title - Scar and Cats!
+    Author - azzphodel
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8naod/comment/mwp0qbq/                
+Image - zed01
+    ID - 86
+    Title - ZedaphS10Games
+    Author - Sate
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8n5vi/comment/mqlxs8y/                
+Image - zed02
+    ID - 87
+    Title - Zedaph Season 10 - The Board Game
+    Author - Maxzilla
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8n5vi/comment/mtbthsd/                
+Image - zed03
+    ID - 88
+    Title - GallinaceousFowl
+    Author - Danglin'
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8n5vi/comment/mufpfc0/                
+Image - zed04
+    ID - 89
+    Title - Ewe Looking at Me?
+    Author - CF Kniq
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8n5vi/comment/mu75ns6/                
+Image - zed05
+    ID - 90
+    Title - Dig Down
+    Author - SnowyZombie
+    Link - https://www.reddit.com/r/HermitCraft/comments/1k8n5vi/comment/ms66l5l/                
+Image - cleo01
+    ID - 91
+    Title - A Quiet Morning
+    Author - anxiodine
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kch8g1/comment/mqc1px2/                
+Image - cleo02
+    ID - 92
+    Title - Cleo's Kitty Cafe
+    Author - dot-moth
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kch8g1/comment/mq97j62/                
+Image - cleo03
+    ID - 93
+    Title - ZombieCleo x Versace
+    Author - ArtbySConnor
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kch8g1/comment/mqqspsa/                
+Image - cleo04
+    ID - 94
+    Title - With Spite
+    Author - AylaPhantom
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kch8g1/comment/mvxqkdi/                
+Image - cleo05
+    ID - 95
+    Title - The Engineer 
+    Author - FreyaIonaArt
+    Link - https://www.reddit.com/r/HermitCraft/comments/1kch8g1/comment/mwegjy2/                
+Image - tango01
+    ID - 96
+    Title - The Dungeon Is Ready For Its Next Victim
+    Author - anxiodine
+    Link - https://www.reddit.com/r/HermitCraft/comments/1ij3n1g/comment/mbmhsev/                
+Image - tango02
+    ID - 97
+    Title - Our Hungriest Hermits
+    Author - PookaPufferfish
+    Link - https://www.reddit.com/r/HermitCraft/comments/1ij3n1g/comment/mbtadij/                
+Image - tango03
+    ID - 98
+    Title - Hazard Kills
+    Author - AlexMakesMonsters 
+    Link - https://www.reddit.com/r/HermitCraft/comments/1ij3n1g/comment/mcrcglo/                
+Image - tango04
+    ID - 99
+    Title - The Dungeon Master
+    Author - skadoodle-ificate
+    Link - https://www.reddit.com/r/HermitCraft/comments/1ij3n1g/comment/mbsjm1v/                
+Image - tango05
+    ID - 100
+    Title - Redstone Lollipop
+    Author - Leaf Doodles
+    Link - https://www.reddit.com/r/HermitCraft/comments/1ij3n1g/comment/mbvum0f/                
+Image - beef01
+    ID - 101
+    Title - Early Mornings
+    Author - Hoshiumii
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j5q1sh/beefs_fan_art_gallery/                
+Image - beef02
+    ID - 102
+    Title - The Hermit Card Farmer
+    Author - CF Kniq
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j5q1sh/comment/mh0j7bb/                
+Image - beef03
+    ID - 103
+    Title - VintageBeef's Farmhouse
+    Author - charliesmudkips
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j5q1sh/comment/mhh33pk/                
+Image - beef04
+    ID - 104
+    Title - TCG CardFather
+    Author - FelinityHT
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j5q1sh/comment/mgtwl84/                
+Image - beef05
+    ID - 105
+    Title - Card Master Harvester!!
+    Author - Technica1lyAtlas
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j5q1sh/comment/miwtp2m/                
+Image - wels01
+    ID - 106
+    Title - Wels' Night
+    Author - Green Guy
+    Link - email                
+Image - wels02
+    ID - 107
+    Title - Like day and (k)night
+    Author - Sheepfish
+    Link - email                
+Image - wels03
+    ID - 108
+    Title - Kingly Knights
+    Author - Honey_draws
+    Link - email                
+Image - wels04
+    ID - 109
+    Title - Castle Gardens
+    Author - SkyCherry
+    Link - email                
+Image - wels05
+    ID - 110
+    Title - A knight cast in glass
+    Author - purplefirekitty12
+    Link - email                
+Image - xb01
+    ID - 111
+    Title - Xb and them water hedgehog things
+    Author - FelinityHT
+    Link - email                
+Image - xb02
+    ID - 112
+    Title - staying in the moment
+    Author - remderance
+    Link - email                
+Image - xb03
+    ID - 113
+    Title - Definitely Not Drowning
+    Author - BilbyBoo
+    Link - email                
+Image - xb04
+    ID - 114
+    Title - Death by Snow Layer
+    Author - Maxx Doodles
+    Link - commissioned                
+Image - xb05
+    ID - 115
+    Title - Frolicking
+    Author - Maxx Doodles
+    Link - commissioned                
+Image - skizz01
+    ID - 116
+    Title - here comes the sun
+    Author - toboldlymuppet
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j8qyy8/comment/mhelwtv/                
+Image - skizz02
+    ID - 117
+    Title - Skizzleman x McQueen
+    Author - ArtbySConnor
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j8qyy8/comment/mhab17a/                
+Image - skizz03
+    ID - 118
+    Title - PoePoeSkizz
+    Author - DST
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j8qyy8/comment/mh7rwcp/                
+Image - skizz04
+    ID - 119
+    Title - PoePoe Skizz
+    Author - Cilka_Sganarell
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j8qyy8/comment/miq8626/                
+Image - skizz05
+    ID - 120
+    Title - Skizzleman, Esq
+    Author - itsxBacon
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j8qyy8/comment/mhc6ckp/                
+Image - skizz06
+    ID - 121
+    Title - K9-Unit (Kevin 9-nicknames)
+    Author - PerryRata
+    Link - https://www.reddit.com/r/HermitCraft/comments/1j8qyy8/comment/mjl4m3e/                
+Image - joel01
+    ID - 122
+    Title - AkiraCraft 
+    Author - KBCDraws
+    Link - https://www.reddit.com/r/SmallishBeans/comments/1jajlby/akiracraft/?sort=old                
+Image - joel02
+    ID - 123
+    Title - The Horse Slayer‘s Town
+    Author - luzdoesart
+    Link - https://www.tumblr.com/luzdoesart/775109301413068800/the-horse-slayers-town-by-luzdoesart-size?source=share                
+Image - joel03
+    ID - 124
+    Title - The Skyline
+    Author - prest0allay
+    Link - https://www.tumblr.com/prest0allay/777550886328238080/title-the-skyline-author-prest0allay-512-x?source=share                
+Image - joel04
+    ID - 125
+    Title - Ramen Break
+    Author - CF Kniq
+    Link - https://x.com/Crossfang2/status/1900482097003061304                
+Image - joel05
+    ID - 126
+    Title - the creation of beans 
+    Author - Natural-Plan-8166
+    Link - https://www.reddit.com/r/SmallishBeans/comments/1imnl6c/the_creation_of_beans/?sort=old                
+Image - joel06
+    ID - 127
+    Title - BTW, There's an XP Shop at Spawn
+    Author - evilseacucumber
+    Link - https://www.tumblr.com/evilseacucumber/776927362805874688/btw-theres-an-xp-shop-at-spawn-2025-by?source=share                
+Image - group01
+    ID - 128
+    Title - The Class of Hermitcraft X
+    Author - Raidshearts
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n4heh85/                
+Image - group02
+    ID - 129
+    Title - Smile, Everybody!
+    Author - Bean_theBrave
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n10m3xm/                
+Image - group03
+    ID - 130
+    Title - Picture day
+    Author - Izuchan
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n4rtrh6/                
+Image - group04
+    ID - 131
+    Title - Say cheese!
+    Author - lemonebar
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5u2e3v/                
+Image - group05
+    ID - 132
+    Title - Sleeping Giants
+    Author - Lozzamation
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5swdgn/                
+Image - group06
+    ID - 133
+    Title - The world is yours
+    Author - Salty Lemons
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n1ulgmj/                
+Image - group07
+    ID - 134
+    Title - A Hermits group photo!
+    Author - Exhailingair
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n3vonqi/                
+Image - group08
+    ID - 135
+    Title - For all the moments we share
+    Author - Spoon
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/mzb7sxa/                
+Image - group09
+    ID - 136
+    Title - Thank You For Season 10
+    Author - Wandering Mask
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5snu4x/                
+Image - group10
+    ID - 137
+    Title - HermitCinema
+    Author - StarCrystal717
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5v1j8l/                
+Image - group11
+    ID - 138
+    Title - The Joy of Hermitcraft
+    Author - Heidi G
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5vhb8m/                
+Image - group12
+    ID - 139
+    Title - Hermit Photo
+    Author - Morikii
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n4bovmx/                
+Image - group13
+    ID - 140
+    Title - Incandescence
+    Author - amvzyx
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5ut7bf/                
+Image - group14
+    ID - 141
+    Title - Awkward Family Photo
+    Author - Rose
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n2cyq6o/                
+Image - bonus01
+    ID - 142
+    Title - Tall Claims Court
+    Author - Katahdin
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5kv8e7/                
+Image - bonus02
+    ID - 143
+    Title - Hungry Hermitcraft
+    Author - MELNACT19
+    Link - https://www.reddit.com/r/HermitCraft/comments/1lg5x88/comment/n5vbrsz/                

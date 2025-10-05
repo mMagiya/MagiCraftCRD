@@ -1,0 +1,299 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/bdubs_stamp"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/beef_stamp"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/cleo_stamp"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/cub_stamp"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/doc_stamp"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/etho_stamp"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/false_stamp"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/gem_stamp"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/grian_stamp"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/horse_stamp"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/hypno_stamp"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/impulse_stamp"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/iskall_stamp"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/jev_stamp"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/joe_stamp"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/joel_stamp"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/keralis_stamp"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/mumbo_stamp"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/pearl_stamp"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/ren_stamp"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/scar_stamp"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/skizz_stamp"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/stress_stamp"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/tango_stamp"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/wels_stamp"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/xb_stamp"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/xisuma_stamp"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "custom:item/stamps/zed_stamp"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "model",
+          "model": "custom:item/mpcoin"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/1"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/2"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/3"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/4"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/5"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/6"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/7"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/8"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/9"
+        }
+      },
+	  {
+        "threshold": 110,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tcgtoken"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/tek_robot_leg"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/tek_robot_arm"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_nugget"
+    }
+  }
+}

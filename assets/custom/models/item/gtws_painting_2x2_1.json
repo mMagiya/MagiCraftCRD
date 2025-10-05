@@ -1,0 +1,74 @@
+{
+	"credit": "by Hoffen _InkGhoul",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "custom:item/gtws_painting_b",
+		"2": "custom:item/gtws_painting_back",
+		"particle": "custom:item/gtws_painting_back"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 0],
+			"to": [8, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 16, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 8, 0.25, 16], "texture": "#1"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#1"},
+				"south": {"uv": [7.75, 8, 8, 16], "texture": "#1"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#2"},
+				"up": {"uv": [0, 8, 8, 8.25], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 8, 8, 8.25], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [158, 0, 180],
+			"translation": [-1.75, -7, 5.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [158, 0, 180],
+			"translation": [-1.75, -7, 5.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, -73, -155],
+			"translation": [2.88, 2.2, 1.13],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 77.25, -25],
+			"translation": [-1.62, 3.2, -0.12],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"rotation": [180, 0, -90],
+			"translation": [-1, 0, 6.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-132, -64, -90],
+			"translation": [2.25, -4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [0, 0, 90],
+			"translation": [7, -3, -8.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-32, 0, -2.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

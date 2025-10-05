@@ -1,0 +1,670 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "custom:item/locked_slot"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/ancient_debris_side"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/deepslate_tiles"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/gilded_blackstone"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/glass"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_granite"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/red_nether_bricks"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/stone_bricks"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/tuff"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "custom:item/flat_blocks/stonecutter"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/oak_log_top"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "custom:item/flat_blocks/barrier"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/hopper_top"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "custom:item/old_diamond"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/stone"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/gravel"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/cobblestone"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/deepslate"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/cobbled_deepslate"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/basalt_side"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/blackstone"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/andesite"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/diorite"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/granite"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/sandstone"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/sand"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/clay"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/netherrack"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/terracotta"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/soul_sand"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/dripstone_block"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/dirt"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/grass_block_side"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/acacia_planks"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/amethyst_block"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/bamboo_planks"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/barrel_side"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/bee_nest_front_honey"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/birch_planks"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/blue_ice"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/bricks"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/calcite"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/cherry_planks"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/chiseled_bookshelf_occupied"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/chiseled_red_sandstone"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/chiseled_sandstone"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/chiseled_stone_bricks"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/copper_bulb"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/crafting_table_front"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/crimson_planks"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/crying_obsidian"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/dark_oak_planks"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/dried_kelp_top"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/end_stone_bricks"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/exposed_copper_bulb"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/hay_block_side"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/honey_block_top"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/jungle_planks"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/magma"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/mangrove_planks"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/melon_top"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/mossy_cobblestone"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/mossy_stone_bricks"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/mud_bricks"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/nether_bricks"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/oak_planks"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/oxidized_copper_bulb"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_andesite"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_basalt_top"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_blackstone"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_deepslate"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_diorite"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/polished_tuff"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/prismarine_bricks"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/pumpkin_top"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/purpur_block"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/quartz_bricks"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/red_mushroom_block"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/red_sand"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/scaffolding_top"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/slime_block"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/smooth_stone"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/spruce_planks"
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/tnt_side"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/warped_planks"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/weathered_copper_bulb"
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/azalea_leaves"
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/deepslate_bricks"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/moss_block"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/mud"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/muddy_mangrove_roots_top"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/rooted_dirt"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "custom:item/blocks/soul_soil"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gigacorp_multipass"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/stick"
+    }
+  }
+}

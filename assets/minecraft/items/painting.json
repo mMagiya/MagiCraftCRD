@@ -1,0 +1,1224 @@
+{
+  "model": {
+    "type": "select",
+    "property": "minecraft:component",
+    "component": "painting/variant",
+    "cases": [
+      {
+        "when": "alban",
+        "model": {
+          "type": "model",
+          "model": "item/alban_painting"
+        }
+      },
+      {
+        "when": "aztec",
+        "model": {
+          "type": "model",
+          "model": "item/aztec_painting"
+        }
+      },
+      {
+        "when": "aztec2",
+        "model": {
+          "type": "model",
+          "model": "item/aztec2_painting"
+        }
+      },
+      {
+        "when": "bomb",
+        "model": {
+          "type": "model",
+          "model": "item/bomb_painting"
+        }
+      },
+      {
+        "when": "kebab",
+        "model": {
+          "type": "model",
+          "model": "item/kebab_painting"
+        }
+      },
+      {
+        "when": "meditative",
+        "model": {
+          "type": "model",
+          "model": "item/meditative_painting"
+        }
+      },
+      {
+        "when": "plant",
+        "model": {
+          "type": "model",
+          "model": "item/plant_painting"
+        }
+      },
+      {
+        "when": "wasteland",
+        "model": {
+          "type": "model",
+          "model": "item/wasteland_painting"
+        }
+      },
+      {
+        "when": "graham",
+        "model": {
+          "type": "model",
+          "model": "item/graham_painting"
+        }
+      },
+      {
+        "when": "wanderer",
+        "model": {
+          "type": "model",
+          "model": "item/wanderer_painting"
+        }
+      },
+      {
+        "when": "backyard",
+        "model": {
+          "type": "model",
+          "model": "item/backyard_painting"
+        }
+      },
+      {
+        "when": "prairie_ride",
+        "model": {
+          "type": "model",
+          "model": "item/prairie_ride_painting"
+        }
+      },
+      {
+        "when": "courbet",
+        "model": {
+          "type": "model",
+          "model": "item/courbet_painting"
+        }
+      },
+      {
+        "when": "creebet",
+        "model": {
+          "type": "model",
+          "model": "item/creebet_painting"
+        }
+      },
+      {
+        "when": "pool",
+        "model": {
+          "type": "model",
+          "model": "item/pool_painting"
+        }
+      },
+      {
+        "when": "sea",
+        "model": {
+          "type": "model",
+          "model": "item/sea_painting"
+        }
+      },
+      {
+        "when": "sunset",
+        "model": {
+          "type": "model",
+          "model": "item/sunset_painting"
+        }
+      },
+      {
+        "when": "baroque",
+        "model": {
+          "type": "model",
+          "model": "item/baroque_painting"
+        }
+      },
+      {
+        "when": "bust",
+        "model": {
+          "type": "model",
+          "model": "item/bust_painting"
+        }
+      },
+      {
+        "when": "humble",
+        "model": {
+          "type": "model",
+          "model": "item/humble_painting"
+        }
+      },
+      {
+        "when": "match",
+        "model": {
+          "type": "model",
+          "model": "item/match_painting"
+        }
+      },
+      {
+        "when": "skull_and_roses",
+        "model": {
+          "type": "model",
+          "model": "item/skull_and_roses_painting"
+        }
+      },
+      {
+        "when": "wind",
+        "model": {
+          "type": "model",
+          "model": "item/wind_painting"
+        }
+      },
+      {
+        "when": "water",
+        "model": {
+          "type": "model",
+          "model": "item/water_painting"
+        }
+      },
+      {
+        "when": "earth",
+        "model": {
+          "type": "model",
+          "model": "item/earth_painting"
+        }
+      },
+      {
+        "when": "fire",
+        "model": {
+          "type": "model",
+          "model": "item/fire_painting"
+        }
+      },
+      {
+        "when": "wither",
+        "model": {
+          "type": "model",
+          "model": "item/wither_painting"
+        }
+      },
+      {
+        "when": "stage",
+        "model": {
+          "type": "model",
+          "model": "item/stage_painting"
+        }
+      },
+      {
+        "when": "void",
+        "model": {
+          "type": "model",
+          "model": "item/void_painting"
+        }
+      },
+      {
+        "when": "fighters",
+        "model": {
+          "type": "model",
+          "model": "item/fighters_painting"
+        }
+      },
+      {
+        "when": "finding",
+        "model": {
+          "type": "model",
+          "model": "item/finding_painting"
+        }
+      },
+      {
+        "when": "lowmist",
+        "model": {
+          "type": "model",
+          "model": "item/lowmist_painting"
+        }
+      },
+      {
+        "when": "passage",
+        "model": {
+          "type": "model",
+          "model": "item/passage_painting"
+        }
+      },
+      {
+        "when": "cotan",
+        "model": {
+          "type": "model",
+          "model": "item/cotan_painting"
+        }
+      },
+      {
+        "when": "tides",
+        "model": {
+          "type": "model",
+          "model": "item/tides_painting"
+        }
+      },
+      {
+        "when": "pond",
+        "model": {
+          "type": "model",
+          "model": "item/pond_painting"
+        }
+      },
+      {
+        "when": "donkey_kong",
+        "model": {
+          "type": "model",
+          "model": "item/donkey_kong_painting"
+        }
+      },
+      {
+        "when": "skeleton",
+        "model": {
+          "type": "model",
+          "model": "item/skeleton_painting"
+        }
+      },
+      {
+        "when": "burning_skull",
+        "model": {
+          "type": "model",
+          "model": "item/burning_skull_painting"
+        }
+      },
+      {
+        "when": "pigscene",
+        "model": {
+          "type": "model",
+          "model": "item/pigscene_painting"
+        }
+      },
+      {
+        "when": "pointer",
+        "model": {
+          "type": "model",
+          "model": "item/pointer_painting"
+        }
+      },
+      {
+        "when": "unpacked",
+        "model": {
+          "type": "model",
+          "model": "item/unpacked_painting"
+        }
+      },
+      {
+        "when": "changing",
+        "model": {
+          "type": "model",
+          "model": "item/changing_painting"
+        }
+      },
+      {
+        "when": "bouquet",
+        "model": {
+          "type": "model",
+          "model": "item/bouquet_painting"
+        }
+      },
+      {
+        "when": "cavebird",
+        "model": {
+          "type": "model",
+          "model": "item/cavebird_painting"
+        }
+      },
+      {
+        "when": "endboss",
+        "model": {
+          "type": "model",
+          "model": "item/endboss_painting"
+        }
+      },
+      {
+        "when": "fern",
+        "model": {
+          "type": "model",
+          "model": "item/fern_painting"
+        }
+      },
+      {
+        "when": "owlemons",
+        "model": {
+          "type": "model",
+          "model": "item/owlemons_painting"
+        }
+      },
+      {
+        "when": "sunflowers",
+        "model": {
+          "type": "model",
+          "model": "item/sunflowers_painting"
+        }
+      },
+      {
+        "when": "orb",
+        "model": {
+          "type": "model",
+          "model": "item/orb_painting"
+        }
+      },
+      {
+        "when": "fanart:xisuma01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xisuma"
+        }
+      },
+      {
+        "when": "fanart:xisuma02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xisuma"
+        }
+      },
+      {
+        "when": "fanart:xisuma03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xisuma"
+        }
+      },
+      {
+        "when": "fanart:xisuma04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xisuma"
+        }
+      },
+      {
+        "when": "fanart:xisuma05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xisuma"
+        }
+      },
+      {
+        "when": "fanart:keralis01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/keralis"
+        }
+      },
+      {
+        "when": "fanart:keralis02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/keralis"
+        }
+      },
+      {
+        "when": "fanart:keralis03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/keralis"
+        }
+      },
+      {
+        "when": "fanart:keralis04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/keralis"
+        }
+      },
+      {
+        "when": "fanart:keralis05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/keralis"
+        }
+      },
+      {
+        "when": "fanart:bdubs01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bdubs"
+        }
+      },
+      {
+        "when": "fanart:bdubs02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bdubs"
+        }
+      },
+      {
+        "when": "fanart:bdubs03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bdubs"
+        }
+      },
+      {
+        "when": "fanart:bdubs04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bdubs"
+        }
+      },
+      {
+        "when": "fanart:bdubs05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bdubs"
+        }
+      },
+      {
+        "when": "fanart:cub01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cub"
+        }
+      },
+      {
+        "when": "fanart:cub02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cub"
+        }
+      },
+      {
+        "when": "fanart:cub03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cub"
+        }
+      },
+      {
+        "when": "fanart:cub04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cub"
+        }
+      },
+      {
+        "when": "fanart:cub05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cub"
+        }
+      },
+      {
+        "when": "fanart:etho01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/etho"
+        }
+      },
+      {
+        "when": "fanart:etho02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/etho"
+        }
+      },
+      {
+        "when": "fanart:etho03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/etho"
+        }
+      },
+      {
+        "when": "fanart:etho04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/etho"
+        }
+      },
+      {
+        "when": "fanart:etho05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/etho"
+        }
+      },
+      {
+        "when": "fanart:falsesymmetry01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/falsesymmetry"
+        }
+      },
+      {
+        "when": "fanart:falsesymmetry02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/falsesymmetry"
+        }
+      },
+      {
+        "when": "fanart:falsesymmetry03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/falsesymmetry"
+        }
+      },
+      {
+        "when": "fanart:falsesymmetry04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/falsesymmetry"
+        }
+      },
+      {
+        "when": "fanart:falsesymmetry05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/falsesymmetry"
+        }
+      },
+      {
+        "when": "fanart:gem01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/gem"
+        }
+      },
+      {
+        "when": "fanart:gem02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/gem"
+        }
+      },
+      {
+        "when": "fanart:gem03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/gem"
+        }
+      },
+      {
+        "when": "fanart:gem04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/gem"
+        }
+      },
+      {
+        "when": "fanart:hypno01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/hypno"
+        }
+      },
+      {
+        "when": "fanart:impulse01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/impulse"
+        }
+      },
+      {
+        "when": "fanart:impulse02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/impulse"
+        }
+      },
+      {
+        "when": "fanart:impulse03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/impulse"
+        }
+      },
+      {
+        "when": "fanart:impulse04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/impulse"
+        }
+      },
+      {
+        "when": "fanart:impulse05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/impulse"
+        }
+      },
+      {
+        "when": "fanart:jevin01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/jevin"
+        }
+      },
+      {
+        "when": "fanart:jevin02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/jevin"
+        }
+      },
+      {
+        "when": "fanart:jevin03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/jevin"
+        }
+      },
+      {
+        "when": "fanart:jevin04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/jevin"
+        }
+      },
+      {
+        "when": "fanart:jevin05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/jevin"
+        }
+      },
+      {
+        "when": "fanart:mumbo01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/mumbo"
+        }
+      },
+      {
+        "when": "fanart:mumbo02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/mumbo"
+        }
+      },
+      {
+        "when": "fanart:mumbo03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/mumbo"
+        }
+      },
+      {
+        "when": "fanart:mumbo04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/mumbo"
+        }
+      },
+      {
+        "when": "fanart:mumbo05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/mumbo"
+        }
+      },
+      {
+        "when": "fanart:pearl01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/pearl"
+        }
+      },
+      {
+        "when": "fanart:pearl02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/pearl"
+        }
+      },
+      {
+        "when": "fanart:pearl03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/pearl"
+        }
+      },
+      {
+        "when": "fanart:pearl04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/pearl"
+        }
+      },
+      {
+        "when": "fanart:pearl05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/pearl"
+        }
+      },
+      {
+        "when": "fanart:rendog01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/rendog"
+        }
+      },
+      {
+        "when": "fanart:rendog02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/rendog"
+        }
+      },
+      {
+        "when": "fanart:rendog03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/rendog"
+        }
+      },
+      {
+        "when": "fanart:rendog04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/rendog"
+        }
+      },
+      {
+        "when": "fanart:rendog05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/rendog"
+        }
+      },
+      {
+        "when": "fanart:scar01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/scar"
+        }
+      },
+      {
+        "when": "fanart:scar02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/scar"
+        }
+      },
+      {
+        "when": "fanart:scar03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/scar"
+        }
+      },
+      {
+        "when": "fanart:scar04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/scar"
+        }
+      },
+      {
+        "when": "fanart:scar05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/scar"
+        }
+      },
+      {
+        "when": "fanart:zedaph01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/zedaph"
+        }
+      },
+      {
+        "when": "fanart:zedaph02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/zedaph"
+        }
+      },
+      {
+        "when": "fanart:zedaph03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/zedaph"
+        }
+      },
+      {
+        "when": "fanart:zedaph04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/zedaph"
+        }
+      },
+      {
+        "when": "fanart:zedaph05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/zedaph"
+        }
+      },
+      {
+        "when": "fanart:cleo01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cleo"
+        }
+      },
+      {
+        "when": "fanart:cleo02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cleo"
+        }
+      },
+      {
+        "when": "fanart:cleo03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cleo"
+        }
+      },
+      {
+        "when": "fanart:cleo04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cleo"
+        }
+      },
+      {
+        "when": "fanart:cleo05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/cleo"
+        }
+      },
+      {
+        "when": "fanart:tango01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/tango"
+        }
+      },
+      {
+        "when": "fanart:tango02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/tango"
+        }
+      },
+      {
+        "when": "fanart:tango03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/tango"
+        }
+      },
+      {
+        "when": "fanart:tango04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/tango"
+        }
+      },
+      {
+        "when": "fanart:tango05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/tango"
+        }
+      },
+      {
+        "when": "fanart:beef01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/beef"
+        }
+      },
+      {
+        "when": "fanart:beef02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/beef"
+        }
+      },
+      {
+        "when": "fanart:beef03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/beef"
+        }
+      },
+      {
+        "when": "fanart:beef04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/beef"
+        }
+      },
+      {
+        "when": "fanart:beef05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/beef"
+        }
+      },
+      {
+        "when": "fanart:wels01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/wels"
+        }
+      },
+      {
+        "when": "fanart:wels02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/wels"
+        }
+      },
+      {
+        "when": "fanart:wels03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/wels"
+        }
+      },
+      {
+        "when": "fanart:wels04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/wels"
+        }
+      },
+      {
+        "when": "fanart:wels05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/wels"
+        }
+      },
+      {
+        "when": "fanart:xb01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xb"
+        }
+      },
+      {
+        "when": "fanart:xb02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xb"
+        }
+      },
+      {
+        "when": "fanart:xb03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xb"
+        }
+      },
+      {
+        "when": "fanart:xb04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xb"
+        }
+      },
+      {
+        "when": "fanart:xb05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/xb"
+        }
+      },
+      {
+        "when": "fanart:skizz01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/skizz"
+        }
+      },
+      {
+        "when": "fanart:skizz02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/skizz"
+        }
+      },
+      {
+        "when": "fanart:skizz03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/skizz"
+        }
+      },
+      {
+        "when": "fanart:skizz04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/skizz"
+        }
+      },
+      {
+        "when": "fanart:skizz05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/skizz"
+        }
+      },
+      {
+        "when": "fanart:skizz06",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/skizz"
+        }
+      },
+      {
+        "when": "fanart:joel01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/joel"
+        }
+      },
+      {
+        "when": "fanart:joel02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/joel"
+        }
+      },
+      {
+        "when": "fanart:joel03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/joel"
+        }
+      },
+      {
+        "when": "fanart:joel04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/joel"
+        }
+      },
+      {
+        "when": "fanart:joel05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/joel"
+        }
+      },
+      {
+        "when": "fanart:joel06",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/joel"
+        }
+      },
+      {
+        "when": "fanart:group01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group03",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group04",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group05",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group06",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group07",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group08",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group09",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group10",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group11",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group12",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group13",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:group14",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/group"
+        }
+      },
+      {
+        "when": "fanart:bonus01",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bonus"
+        }
+      },
+      {
+        "when": "fanart:bonus02",
+        "model": {
+          "type": "model",
+          "model": "fanart:item/bonus"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/painting"
+    }
+  }
+}

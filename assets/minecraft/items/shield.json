@@ -1,0 +1,46 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "entries": [
+        {
+          "threshold": 1,
+          "model": {
+            "type": "model",
+            "model": "custom:item/shield_small"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      }
+    },
+    "on_true": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "entries": [
+        {
+          "threshold": 1,
+          "model": {
+            "type": "model",
+            "model": "custom:item/shield_small_blocking"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield_blocking",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      }
+    },
+    "property": "minecraft:using_item"
+  }
+}

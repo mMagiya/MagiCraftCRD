@@ -1,14 +1,1090 @@
 {
   "model": {
-    "type": "select",
+    "type": "range_dispatch",
     "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/gold"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/bdubs"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/beef"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/cleo"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/cub"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/docm"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/false"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/grian"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/hypno"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/impulse"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/iskall"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/jevin"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/joe"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/pearl"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/scar"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/stress"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/wels"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/xb"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/xisuma"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/zed"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_zoo_hat"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "custom:item/cyberimpulse"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "custom:item/skizzbeans_wither"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_food"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_hell"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_maps"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_minister"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_steel"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_transport"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_trash"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tophat_minister_villager"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "custom:item/fisherman_grian_manifesting_destiny"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "custom:item/mail_cap"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "model",
+          "model": "custom:item/fisherman_grian_manifesting_mending_2"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tropical_hat"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "model",
+          "model": "custom:item/cleo_tea"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "custom:item/coffee_black"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "model",
+          "model": "custom:item/coffee_white"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "custom:item/hot_chocolate"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tea"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_1"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_2"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_3"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_4"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_5"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_6"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_7"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_8"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_9"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_1_gray"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_2_gray"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_3_gray"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_4_gray"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_5_gray"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_6_gray"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_7_gray"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_8_gray"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_9_gray"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/xb_trophy"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/play_button"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "model",
+          "model": "custom:item/dodgeball_trophy"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_mace_gray"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_mace"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "model",
+          "model": "custom:item/cub_permit_trophy"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_armadillo"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_frog"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_torch"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_stone"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_elder_guardian"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_guardian"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_ender"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_apple"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ranks/x_rank_firework"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "model",
+          "model": "custom:item/simulation_block"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "model",
+          "model": "custom:item/sunglasses_cap"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "model",
+          "model": "custom:item/villager_nose"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/citigrass_bright"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/citigrass_dark"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/citigrass_mid"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/citigrass"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/smallcitigrass_bright"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/smallcitigrass_dark"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/smallcitigrass_mid"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/smallcitigrass"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "model",
+          "model": "custom:item/wolf_head_visor"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_1x1_1"
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_1x1_2"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_1x2_1"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_1x2_2"
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_1x2_3"
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_2x2_1"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_2x2_2"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtws_painting_4x4"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "custom:item/zed_shepherd"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "custom:item/glasses"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "custom:item/glasses2"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ibe"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "model",
+          "model": "custom:item/plumbob"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tnthat"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "model",
+          "model": "custom:item/permit_painting_1"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "model",
+          "model": "custom:item/permit_painting_2"
+        }
+      },
+      {
+        "threshold": 109,
+        "model": {
+          "type": "model",
+          "model": "custom:item/permit_painting_3"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_arrow_prank"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_nerd_glasses"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_quest_exclamation"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_quest_question"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_rave_glasses"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_sword"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "model",
+          "model": "custom:item/i85_baseball_cap"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "model",
+          "model": "custom:item/pina_colada"
+        }
+      },
+      {
+        "threshold": 118,
+        "model": {
+          "type": "model",
+          "model": "custom:item/flower_crown"
+        }
+      },
+      {
+        "threshold": 119,
+        "model": {
+          "type": "model",
+          "model": "custom:item/bouncepad_target"
+        }
+      },
+      {
+        "threshold": 120,
+        "model": {
+          "type": "model",
+          "model": "custom:item/copper_golem_1"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "model",
+          "model": "custom:item/copper_golem_2"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "model",
+          "model": "custom:item/copper_golem_3"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "model",
+          "model": "custom:item/copper_golem_4"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "model",
+          "model": "custom:item/bouncepad_target_2"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "model",
+          "model": "custom:item/parrot_painting"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "model",
+          "model": "custom:item/seq_painting"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "model",
+          "model": "custom:item/gtwscar_pirate_hat"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "model",
+          "model": "custom:item/jellie_hat"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "model",
+          "model": "custom:item/scarhardhat"
+        }
+      },
+      {
+        "threshold": 130,
+        "model": {
+          "type": "model",
+          "model": "custom:item/scarhat"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "model",
+          "model": "custom:item/hg_1x2_calendar_volley"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/hungryhermits/toque"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/hungryhermits/bandana"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/hungryhermits/phone"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy_gold"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tcg_trophys10"
+        }
+      },
+      {
+        "threshold": 137,
+        "model": {
+          "type": "model",
+          "model": "custom:item/jevinhats/antlers"
+        }
+      },
+      {
+        "threshold": 138,
+        "model": {
+          "type": "model",
+          "model": "custom:item/jevinhats/elfhat"
+        }
+      },
+      {
+        "threshold": 139,
+        "model": {
+          "type": "model",
+          "model": "custom:item/jevinhats/santahat"
+        }
+      },
+      {
+        "threshold": 140,
+        "model": {
+          "type": "model",
+          "model": "custom:item/touch_grass_bronze"
+        }
+      },
+      {
+        "threshold": 141,
+        "model": {
+          "type": "model",
+          "model": "custom:item/touch_grass_silver"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "model",
+          "model": "custom:item/touch_grass_gold"
+        }
+      },
+	  {
+        "threshold": 143,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/poker_trophy"
+        }
+      },
+	  {
+        "threshold": 144,
+        "model": {
+          "type": "model",
+          "model": "custom:item/trophy/creeper_hole_trophy"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "model",
+          "model": "custom:item/bdubs_fish"
+        }
+      },
+	  {
+        "threshold": 146,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/tek_robot_head"
+        }
+      },
+	  {
+        "threshold": 147,
+        "model": {
+          "type": "model",
+          "model": "custom:item/tango/tek_robot_body"
+        }
+      },
+      {
+        "threshold": 148,
+        "model": {
+          "type": "model",
+          "model": "custom:item/ghasketball_trophy"
+        }
+      },
+      {
+        "threshold": 149,
+        "model": {
+          "type": "model",
+          "model": "custom:item/keralis_artic_hat"
+        }
+      },
+      {
+        "threshold": 150,
+        "model": {
+          "type": "model",
+          "model": "custom:item/metro_mayhem_bronce"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "model",
+          "model": "custom:item/metro_mayhem_gold"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "model",
+          "model": "custom:item/metro_mayhem_silver"
+        }
+      },
+      {
+        "threshold": 153,
+        "model": {
+          "type": "model",
+          "model": "custom:item/metro_mayhem_winner"
+        }
+      },
+      {
+        "threshold": 154,
+        "model": {
+          "type": "model",
+          "model": "custom:item/scarfari_balloon_chicken"
+        }
+      },
+      {
+        "threshold": 155,
+        "model": {
+          "type": "model",
+          "model": "custom:item/scarfari_balloon_cow"
+        }
+      },
+      {
+        "threshold": 156,
+        "model": {
+          "type": "model",
+          "model": "custom:item/scarfari_balloon_pig"
+        }
+      },
+      {
+        "threshold": 157,
+        "model": {
+          "type": "model",
+          "model": "custom:item/scarfari_ticket"
+        }
+      },
+      {
+        "threshold": 158,
+        "model": {
+          "type": "model",
+          "model": "custom:item/egg/emerald"
+        }
+      },
+      {
+        "threshold": 159,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/metro_mayhem_hunt"
+        }
+      },
+      {
+        "threshold": 160,
+        "model": {
+          "type": "model",
+          "model": "custom:item/impulse/metro_mayhem_winner_s2"
+        }
+      },
+      {
+        "threshold": 161,
+        "model": {
+          "type": "model",
+          "model": "custom:item/solarpunk_hat"
+        }
+      }
+    ],
     "fallback": {
-      "type": "model",
-      "model": "block/carved_pumpkin"
-    },
-    "cases": [
-      { "when": "coin", "model": { "type": "model", "model": "magicraft:item/coin" } }
-    ]
+      "type": "minecraft:model",
+      "model": "minecraft:block/carved_pumpkin"
+    }
   }
 }
-

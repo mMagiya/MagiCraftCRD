@@ -1,13 +1,20 @@
 {
   "model": {
-    "type": "select",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/copper_sword"
-    },
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
     "cases": [
-      { "when": "legosaber", "model": { "type": "model", "model": "magicraft:item/legosaber" } }
-    ]  
+      {
+        "when": "Legosaber",
+        "model": {
+          "type": "minecraft:model",
+          "model": "magicraft:item/legosaber"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/copper_sword"
+    }
   }
 }

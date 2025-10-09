@@ -1,0 +1,74 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:custom_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Captain Dude Shield",
+          "model": {
+            "type": "minecraft:condition",
+            "on_false": {
+              "type": "minecraft:special",
+              "base": "magicraft:item/captdudeshield",
+              "model": {
+                "type": "minecraft:shield"
+              }
+            },
+            "on_true": {
+              "type": "minecraft:special",
+              "base": "magicraft:item/captdudeshield_blocking",
+              "model": {
+                "type": "minecraft:shield"
+              }
+            },
+            "property": "minecraft:using_item"
+          }
+        }
+      ],
+      "fallback": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:condition",
+            "on_false": {
+              "type": "minecraft:special",
+              "base": "minecraft:item/shield",
+              "model": {
+                "type": "minecraft:shield"
+              }
+            },
+            "on_true": {
+              "type": "minecraft:special",
+              "base": "minecraft:item/shield_blocking",
+              "model": {
+                "type": "minecraft:shield"
+              }
+            },
+            "property": "minecraft:using_item"
+          }
+        }
+      }
+    },
+    "on_false": {
+      "type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      },
+      "on_true": {
+        "type": "minecraft:special",
+        "base": "minecraft:item/shield_blocking",
+        "model": {
+          "type": "minecraft:shield"
+        }
+      },
+      "property": "minecraft:using_item"
+    }
+}

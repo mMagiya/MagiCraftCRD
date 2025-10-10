@@ -17,6 +17,13 @@
                             "type": "minecraft:model",
                             "model": "magicraft:item/captdudeshield"
                         }
+                    },
+                    {
+                        "when": "Personal Defense Matrix",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "magicraft:item/pdmwatch"
+                        }
                     }
                 ],
                 "fallback": {
@@ -50,6 +57,13 @@
                         "model": {
                             "type": "minecraft:model",
                             "model": "magicraft:item/captdudeshield_blocking"
+                        }
+                    },
+                    {
+                        "when": "Personal Defense Matrix",
+                        "model": {
+                            "type": "minecraft:model",
+                            "model": "magicraft:item/pdmwatch_blocking"
                         }
                     }
                 ],

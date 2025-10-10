@@ -5,23 +5,17 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "Legosaber",
+        "when": "Samurai Helmet",
         "model": {
           "type": "minecraft:model",
-          "model": "magicraft:item/legosaber"
-        }
-      },
-      {
-        "when": "Cyberkatana",
-        "model": {
-          "type": "minecraft:model",
-          "model": "magicraft:item/cyberkatana"
+          "model": "magicraft:item/samuraihelmet",
+          "tints": []
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/iron_sword"
+      "model": "minecraft:block/carved_pumpkin"
     }
   }
 }

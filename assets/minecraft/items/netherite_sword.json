@@ -10,6 +10,13 @@
           "type": "minecraft:model",
           "model": "magicraft:item/legosaber"
         }
+      },
+      {
+        "when": "Cyberkatana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "magicraft:item/cyberkatana"
+        }
       }
     ],
     "fallback": {
